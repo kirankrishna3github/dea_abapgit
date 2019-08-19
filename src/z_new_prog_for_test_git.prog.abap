@@ -6,3 +6,5 @@
 REPORT Z_NEW_PROG_FOR_TEST_GIT.
 
 WRITE 'Тест Гит'.
+
+WRITE 'Теперь нравится'.
