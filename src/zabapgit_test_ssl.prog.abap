@@ -5,6 +5,8 @@
 *&---------------------------------------------------------------------*
 REPORT ZABAPGIT_TEST_SSL.
 
+""""""Какое то другео изменение
+
 * See https://github.com/larshp/abapGit/
 
 PARAMETERS: p_url1 TYPE swc_value DEFAULT 'https://github.com',
