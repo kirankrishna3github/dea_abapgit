@@ -32,3 +32,8 @@ dref_tab_new = VALUE #(
 *DELETE dref_tab WHERE table_line IS NOT INITIAL.
 ASSERT dref_tab_new = dref_tab.
 BREAK-POINT.
+""""
+""""
+""""dfkjfbkjdbjdhbfjbfjbjgb
+""""
+""""
